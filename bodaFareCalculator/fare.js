@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function calculateFare() {
     
     const distance = parseFloat(document.getElementById('distance').value);
@@ -65,5 +66,6 @@ function calculateFare() {
         totalFare: totalFare
     });
 }
+
 
 
