@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Code Challenge 1: Calculator Implementations
 
 This repository contains three calculator implementations for different use cases:
@@ -48,5 +49,6 @@ code-challenge-1/
 │   └── fee.js
 └── README.md
 ```
+
 
 
