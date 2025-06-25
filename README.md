@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Code Challenge 1: Calculator Implementations
 
 This repository contains three calculator implementations for different use cases:
@@ -34,8 +34,22 @@ Located in `mobileMoneyEstimator/index.html` and `mobileMoneyEstimator/fee.js`
   - User-friendly interface
 
 
-
 ##Project Structure
+
+=======
+## Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/levimutai/code-challenge-1.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd code-challenge-1
+   ```
+3. Open any of the calculator directories
+4. Launch the respective index.html file in your browser to use the calculators
+
+## Project Structure
 
 code-challenge-1/
 ├── chaiCalculator/
@@ -49,6 +63,3 @@ code-challenge-1/
 │   └── fee.js
 └── README.md
 ```
-
-
-
